@@ -9,7 +9,7 @@
 <body>
     <header>
         <nav>
-            <h1 class="logo">Gajendra S</h1>
+            <h1 class="logo">Gajendra </h1>
             <ul>
                 <li><a href="#about">About</a></li>
                 <li><a href="#projects">Projects</a></li>
